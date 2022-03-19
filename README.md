@@ -1,8 +1,8 @@
-# SAMUEL COSTA ☕
 
 [![costasamuel16](https://github-readme-stats.vercel.app/api?username=costasamuel16&theme=radical&show_icons=true)](https://github.com/costasamuel16/)
 
 [![costasamuel16](https://github-readme-stats.vercel.app/api/top-langs/?username=costasamuel16&hide=html&layout=compact&theme=radical)](https://github.com/costasamuel16/)
+
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/costa_samuel16)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/costasamuel16)
